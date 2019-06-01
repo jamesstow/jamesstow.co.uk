@@ -1,0 +1,6 @@
+server {
+	listen 80;
+	server_name jamesstow.co.uk;
+	index index.html;
+	root /srv/http/jamesstow.co.uk;
+}
